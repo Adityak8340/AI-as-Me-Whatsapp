@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" width="150" height="150"/>
-  <h1 style="color: #25D366;">🤖 AI-as-Me WhatsApp Bot</h1>
+  <h1 style="color: #25D366;">AI-as-Me WhatsApp Bot</h1>
   <p><i>A personal AI assistant that can impersonate you on WhatsApp!</i></p>
 
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
