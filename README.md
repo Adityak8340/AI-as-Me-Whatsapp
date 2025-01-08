@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" width="150" height="150"/>
-  <h1>🤖 AI-as-Me WhatsApp Bot</h1>
+  <h1 style="color: #25D366;">🤖 AI-as-Me WhatsApp Bot</h1>
   <p><i>A personal AI assistant that can impersonate you on WhatsApp!</i></p>
 
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
@@ -10,8 +10,8 @@
 
 ---
 
-<div align="center">
-  <h3>🌟 Features</h3>
+<div align="center" style="margin: 30px 0;">
+  <h3 style="color: #34B7F1;">🌟 Features</h3>
 </div>
 
 - 🧠 **Smart Conversations**: Powered by a fine-tuned LLM that learns your chat style
@@ -22,8 +22,8 @@
 
 ---
 
-<div align="center">
-  <h3>🚀 Quick Start</h3>
+<div align="center" style="margin: 30px 0;">
+  <h3 style="color: #34B7F1;">🚀 Quick Start</h3>
 </div>
 
 1. **Clone the repository**
@@ -54,8 +54,8 @@ python ai_me.py
 
 ---
 
-<div align="center">
-  <h3>🛠️ Architecture</h3>
+<div align="center" style="margin: 30px 0;">
+  <h3 style="color: #34B7F1;">🛠️ Architecture</h3>
 </div>
 
 ```mermaid
@@ -70,13 +70,11 @@ graph LR
 
 ---
 
-<div align="center">
-  <h3>💡 Usage Examples</h3>
+<div align="center" style="margin: 30px 0;">
+  <h3 style="color: #34B7F1;">💡 Usage Examples</h3>
 </div>
 
-<table>
-<tr>
-<td>
+<div style="width: 100%; background-color: #f6f8fa; padding: 15px; border-radius: 6px;">
 
 ```python
 # Send a message to your bot
@@ -88,14 +86,12 @@ thinking about grabbing coffee soon!
 How about you? 😊"
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<div align="center">
-  <h3>🔮 Future Enhancements</h3>
+<div align="center" style="margin: 30px 0;">
+  <h3 style="color: #34B7F1;">🔮 Future Enhancements</h3>
 </div>
 
 - [ ] Multi-language support
@@ -106,20 +102,12 @@ How about you? 😊"
 
 ---
 
-<div align="center">
-  <h3>📜 License</h3>
+<div align="center" style="margin: 30px 0;">
+  <h3 style="color: #34B7F1;">📜 License</h3>
   <p>MIT © 2024 Aditya Kumar Tiwari</p>
 </div>
 
-<style>
-  h1 { color: #25D366; }
-  h3 { color: #34B7F1; }
-  table { width: 100%; }
-  td { background-color: #f6f8fa; padding: 15px; }
-  .center { text-align: center; }
-</style>
-
-<div align="center">
-  <p>Made with ❤️ and ☕</p>
-  <p><b>Star ⭐ this repo if you find it useful!</b></p>
+<div align="center" style="margin-top: 50px; padding: 20px; background-color: #f8f9fa; border-radius: 6px;">
+  <p style="margin: 10px 0;">Made with ❤️ and ☕</p>
+  <p style="font-weight: bold;">Star ⭐ this repo if you find it useful!</p>
 </div>
