@@ -119,18 +119,6 @@ How about you? 😊"
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50" class="tech-icon" style="animation: float 3s ease-in-out infinite 0.4s;"/>
   </div>
 </div>
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-.tech-icon:hover {
-  transform: scale(1.2);
-  transition: transform 0.3s ease;
-}
-</style>
 <div align="center">
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F;Feel+free+to+contribute!" alt="Typing SVG" />
