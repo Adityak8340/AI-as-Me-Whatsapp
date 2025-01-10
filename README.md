@@ -111,3 +111,32 @@ How about you? 😊"
   <p style="margin: 10px 0;">Made with ❤️ and ☕</p>
   <p style="font-weight: bold;">Star ⭐ this repo if you find it useful!</p>
 </div>
+<div align="center" style="margin: 30px 0;">
+  <div class="tech-stack" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50" class="tech-icon" style="animation: float 3s ease-in-out infinite;"/>
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="50" height="50" class="tech-icon" style="animation: float 3s ease-in-out infinite 0.2s;"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" class="tech-icon" style="animation: float 3s ease-in-out infinite 0.4s;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50" class="tech-icon" style="animation: float 3s ease-in-out infinite 0.4s;"/>
+  </div>
+</div>
+
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+.tech-icon:hover {
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+}
+</style>
+<div align="center">
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F;Feel+free+to+contribute!" alt="Typing SVG" />
+    <p align="center">
+        <img src="https://img.shields.io/github/stars/adityak8340/AI-as-Me-Whatsapp?style=social" alt="Stars">
+        <img src="https://img.shields.io/github/forks/adityak8340/AI-as-Me-Whatsapp?style=social" alt="Forks">
+        <img src="https://img.shields.io/github/issues/adityak8340/AI-as-Me-Whatsapp?style=social" alt="Issues">
+    </p>
+</div>
